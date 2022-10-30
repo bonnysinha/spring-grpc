@@ -1,0 +1,10 @@
+insert into USER_ORDERS values (1,1,101,1,100.00,'2022-10-21');
+insert into USER_ORDERS values (2,1,102,2,121.10,'2022-10-21');
+insert into USER_ORDERS values (3,1,103,2,6.32,'2022-10-21');
+insert into USER_ORDERS values (4,2,201,2,9.00,'2022-10-21');
+insert into USER_ORDERS values (5,2,202,3,10.00,'2022-10-21');
+insert into USER_ORDERS values (6,2,203,2,8.43,'2022-10-21');
+insert into USER_ORDERS values (7,3,301,2,100.00,'2022-10-21');
+insert into USER_ORDERS values (8,3,302,3,33.33,'2022-10-21');
+insert into USER_ORDERS values (9,3,303,10,32.99,'2022-10-21');
+insert into USER_ORDERS values (10,3,304,2,150.00,'2022-10-21');
